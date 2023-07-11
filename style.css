@@ -56,6 +56,9 @@ nav a {
 header {
     padding: 40px 170px 0px 250px;
     background: rgba(229, 84, 115, 0.10);
+    background-image: url('/images/flower.png');
+    background-repeat: no-repeat;
+    background-position: left;
 }
 
 .banner {
