@@ -190,3 +190,128 @@ header {
     padding-top: 24px;
     padding-left: 210px;
 }
+
+/* Hot deal styles */
+
+.hot-deal {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 620px;
+}
+
+.discount {
+    color: #E55473;
+}
+
+.deal {
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding-left: 200px;
+}
+
+.deal-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-left: 30px;
+}
+
+.deal-description {
+    padding-top: 25px;
+    padding-bottom: 30px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    align-items: center;
+    width: 600px;
+}
+
+.hot-deal img {
+    padding-right: 200px;
+}
+
+/* Subscribe part */
+
+.subscribe {
+    text-align: center;
+    background-image: url('/images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    margin: 130px 240px;
+    width: 1440px;
+    height: 449px;
+}
+
+.subscribe-text-titles {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 120px;
+}
+
+.subscribe-text {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 16px;
+    padding-bottom: 48px;
+}
+
+.inp-field {
+    width: 700px;
+    height: 64px;
+    border: 0;
+    border-radius: 8px;
+    background: #FFF;
+    margin-right: 15px;
+}
+
+::placeholder {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* Footer style */
+
+footer {
+    height: 449px;
+    text-align: center;
+    background: #111010;
+}
+
+.flower-shop {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 130px;
+}
+
+.flower {
+    color: #E55473;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    padding-top: 25px;
+    padding-left: 650px;
+    width: 625px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.copywrite {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 30px;
+}
