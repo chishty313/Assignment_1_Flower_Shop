@@ -56,7 +56,7 @@ nav a {
 header {
     padding: 40px 170px 0px 250px;
     background: rgba(229, 84, 115, 0.10);
-    background-image: url('/images/flower.png');
+    background-image: url('../images/flower.png');
     background-repeat: no-repeat;
     background-position: left;
 }
@@ -243,7 +243,7 @@ header {
 
 .subscribe {
     text-align: center;
-    background-image: url('/images/Rectangle\ 9.png');
+    background-image: url('../images/Rectangle\ 9.png');
     background-repeat: no-repeat;
     border-radius: 8px;
     margin: 130px 240px;
